@@ -3,7 +3,7 @@
 
 
 
-I am an active cyber security enthusiast with skills in testing networks and web applications for security vulnerabilities. With a bachelor's degree in Computer Application and an advanced certification in penetration testing, I excel at finding and fixing vulnerabilities using the latest tools and techniques.
+I am an active cyber security enthusiast with skills in testing networks and web applications for security vulnerabilities. With a bachelor's degree in Computer Application and an advanced certification in penetration testing.
 
 ## Objective
 
