@@ -3,7 +3,7 @@
 <a href="https://medium.com/@hashim-razak"><img src="https://img.shields.io/badge/-Medium-12100E?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 
-I am an active cyber security enthusiast with skills in testing networks and web applications for security vulnerabilities. With a bachelor's degree in Computer Application and an advanced certification in penetration testing.
+I am an active cyber security researcher with skills in testing networks and web applications for security vulnerabilities. With a bachelor's degree in Computer Application and an advanced certification in penetration testing.
 
 ## Objective
 
