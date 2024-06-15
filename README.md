@@ -1,4 +1,4 @@
-# Hello, I'm Hashim K R
+# Hello, I'm Hashim RAZAK
 <a href="https://www.linkedin.com/in/hashim-razak"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an active cyber security enthusiast with skills in testing networks and web applications for security vulnerabilities. With a bachelor's degree in Computer Application and an advanced certification in penetration testing, I excel at finding and fixing vulnerabilities using the latest tools and techniques.
